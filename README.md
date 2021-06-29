@@ -6,4 +6,6 @@ I uploaded a clean/reduced version used for the analysis. The cleaning process w
 
 I have only uploaded my notebooks and not my group members'. However, models from their notebooks are imported as pickles in my stacking classifier notebook. I included the pickle files, but it is possible issues may occur due to their notebooks not being included in the repository. 
 
+There are two clustering notebooks, a slim version and long version. The long version uses all the data and took over 24 hours to run. The slim version is much quicker and only uses 10% of the dataset. The slim version includes the same analysis from the long version plus silhouette plots.
+
 The Python libraries used include matplotlib (3.3.4), NumPy (1.20.1), pandas (1.2.3), pickle, scikit-learn (0.24.1), and warnings
