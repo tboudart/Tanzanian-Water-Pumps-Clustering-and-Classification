@@ -4,4 +4,6 @@ For this group project, I performed cluster analysis and classification using Py
 The original dataset came from DrivenData as part of a competition: https://www.drivendata.org/competitions/7/pump-it-up-data-mining-the-water-table/ 
 I uploaded a clean/reduced version used for the analysis. The cleaning process was through the lens of using features that could be used in other countries and be general enough to classify water pumps anywhere in the world. We did not participate in the competition, otherwise, the cleaning process would not have been generalized. 
 
-The Python libraries used include matplotlib (3.3.4), NumPy (1.20.1), pandas (1.2.3), scikit-learn (0.24.1), and warnings
+I have only uploaded my notebooks and not my group members'. However, models from their notebooks are imported as pickles in my stacking classifier notebook. I included the pickle files, but it is possible issues may occur due to their notebooks not being included in the repository. 
+
+The Python libraries used include matplotlib (3.3.4), NumPy (1.20.1), pandas (1.2.3), pickle, scikit-learn (0.24.1), and warnings
